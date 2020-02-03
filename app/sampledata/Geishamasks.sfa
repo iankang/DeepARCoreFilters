@@ -1,0 +1,43 @@
+{
+  materials: [
+    {
+      name: 'Color_M06',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.33725500000000003,
+            0.33725500000000003,
+            0.33725500000000003,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Geishamasks.obj',
+    name: 'Geishamasks',
+    recenter: 'root',
+    scale: 0.026353000000000001,
+  },
+  version: '0.54:2',
+}
