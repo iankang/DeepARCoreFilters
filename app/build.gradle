@@ -39,3 +39,8 @@ sceneform.asset('sampledata/Geishamasks.obj',
         'default',
         'sampledata/Geishamasks.sfa',
         'src/main/assets/Geishamasks')
+
+sceneform.asset('sampledata/Sunglasses_01.obj',
+        'default',
+        'sampledata/Sunglasses_01.sfa',
+        'src/main/assets/Sunglasses_01')

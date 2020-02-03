@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         CustomARFragment customARFragment = (CustomARFragment) getSupportFragmentManager().findFragmentById(R.id.arFragment);
 
         ModelRenderable.builder()
-                .setSource(this, Uri.parse("Geishamasks.sfb"))
+                .setSource(this, Uri.parse("Sunglasses_01.sfb"))
                 .build()
                 .thenAccept(modelRenderable1 -> {
                    modelRenderable = modelRenderable1;
