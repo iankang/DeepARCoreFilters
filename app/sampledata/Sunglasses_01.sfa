@@ -62,7 +62,7 @@
     file: 'sampledata/Sunglasses_01.obj',
     name: 'Sunglasses_01',
     recenter: 'root',
-    scale: 10.00001,
+    scale: 5.00001,
   },
   version: '0.54:2',
 }

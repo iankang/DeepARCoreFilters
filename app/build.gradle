@@ -35,12 +35,27 @@ dependencies {
 }
 
 
-sceneform.asset('sampledata/Geishamasks.obj',
-        'default',
-        'sampledata/Geishamasks.sfa',
-        'src/main/assets/Geishamasks')
+//sceneform.asset('sampledata/Geishamasks.obj',
+//        'default',
+//        'sampledata/Geishamasks.sfa',
+//        'src/main/assets/Geishamasks')
+//
+//sceneform.asset('sampledata/Sunglasses_01.obj',
+//        'default',
+//        'sampledata/Sunglasses_01.sfa',
+//        'src/main/assets/Sunglasses_01')
 
-sceneform.asset('sampledata/Sunglasses_01.obj',
+sceneform.asset('sampledata/Mustache.obj',
         'default',
-        'sampledata/Sunglasses_01.sfa',
-        'src/main/assets/Sunglasses_01')
+        'sampledata/Mustache.sfa',
+        'src/main/assets/Mustache')
+
+sceneform.asset('sampledata/Beard_01.obj',
+        'default',
+        'sampledata/Beard_01.sfa',
+        'src/main/assets/Beard_01')
+
+sceneform.asset('sampledata/sunglasses.fbx',
+        'default',
+        'sampledata/sunglasses.sfa',
+        'src/main/assets/sunglasses')

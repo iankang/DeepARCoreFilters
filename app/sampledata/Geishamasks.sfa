@@ -37,7 +37,7 @@
     file: 'sampledata/Geishamasks.obj',
     name: 'Geishamasks',
     recenter: 'root',
-    scale: 0.026353000000000001,
+    scale: 0.0026353000000000001,
   },
   version: '0.54:2',
 }
